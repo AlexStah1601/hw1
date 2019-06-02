@@ -1,8 +1,8 @@
 1. banana
 2. orange
-3. pear
+3. cherry
 4. orange
-5. mango
+5. cucumber
 6. potatoes
 7. tomato
 8. strawberry
