@@ -1,0 +1,10 @@
+1. banana
+2. orange
+3. plum
+4. orange
+5. mango
+6. potatoes
+7. tomato
+8. strawberry
+9. blueberry
+10. lemon
